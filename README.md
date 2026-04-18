@@ -4,9 +4,8 @@ An Arduino-powered miniature reverse vending machine that automatically detects,
 
 ## 🎥 Project Media
 
-* **Watch it in action:** ADD YOUTUBE LINK HERE
-* **3D Printable Models:** ADD PRINTABLES LINK HERE
-
+* **Watch it in action:** [YouTube](https://www.youtube.com/playlist?list=PLAvx6yAmaPO_w0AlcTy81U2OP1X48eIGR)
+* **3D Printable Models:** [Printables](https://www.printables.com/model/1693055-reverse-vending-machine)
 ## ✨ Features
 
 * **Smart Conveyor System:** Uses a stepper motor to move items through a tunnel. The software is capable of tracking multiple bottles in the tunnel simultaneously.
@@ -17,7 +16,8 @@ An Arduino-powered miniature reverse vending machine that automatically detects,
 * **Battery powered:** Runs on four 18650 USB-C rechargable batteries. Runtime is several hours of usage (sensors, motors and thermal printer running). 
 
 ## 🛠️ Hardware & Components
-![Circuit Schematic Diagram](./schematic.png)
+<img src="./schematic.png" width="50%" alt="Wiring Schematic">
+
 * **Microcontroller:** Arduino (Compatible board)
 * **Sensors:**
     * Analog IR Proximity Sensor (for initial bottle detection)
